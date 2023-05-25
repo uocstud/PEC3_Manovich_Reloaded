@@ -53,7 +53,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * _Pixabay_ para las imágenes _(libres de derechos)_:<br>
 <https://pixabay.com/es/photos/mujer-lugar-de-trabajo-arte-digital-6516839/><br>
 <https://pixabay.com/es/photos/museo-de-historia-natural-londres-2203648/><br>
-<>
+<https://pixabay.com/es/photos/apolo-y-las-musas-lienzo-petróleo-876292/>
 ----
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0.
