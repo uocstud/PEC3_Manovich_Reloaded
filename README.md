@@ -48,7 +48,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <https://stackedit.io/app#><br>
 <https://markdown.es/>
 
-* Museos virtuales \[en línea, consulta: mayo 2023\]:<br> <https://artsandculture.google.com/partner?hl=es>
+* _Google Art&Culture_ para visitas museos y juegos \[en línea, consulta: mayo 2023\]:<br> <https://artsandculture.google.com/partner?hl=es>
 
 * _Pixabay_ para las imágenes _(libres de derechos)_:<br>
 <https://pixabay.com/es/photos/mujer-lugar-de-trabajo-arte-digital-6516839/><br>
