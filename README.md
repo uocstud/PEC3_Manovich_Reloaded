@@ -8,7 +8,7 @@ Autor: Daniel Cotae
 
 Fecha: 25/05/2023
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+![Mujer delante del ordenador](/cabecera.jpg) 
 
 
 
@@ -31,9 +31,24 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**.
+* Manovich, Lev (2013). **El Software toma el mando.**
 
+* Adell, Ferran (2014). **Fundamentos y evolución de la multimedia** \[en línea, consulta: mayo 2023\]: <http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/>
 
+* Muñoz-Justicia, Juan (2014). **Conocimiento Abierto y Tecnología** \[en línea, consulta: mayo 2023\]: <http://juan.psicologiasocial.eu/conocimiento-y-tecnologia>
+
+* Repositorios y Fork en GitHub \[en línea, consulta: mayo 2023\]:<br>
+<https://docs.github.com/es/repositories/creating-and-managing-repositories/about-repositories><br>
+<https://aprendegit.com/fork-de-repositorios-para-que-sirve/>
+
+* _StackEdit_ para la creación del texto en _MarkDown_:<br>
+<https://stackedit.io/app#><br>
+<https://markdown.es/>
+
+* _Pixabay_ para las imágenes _(libres de derechos)_:<br>
+<https://pixabay.com/es/photos/mujer-lugar-de-trabajo-arte-digital-6516839/><br>
+<><br>
+<>
 ----
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0.
