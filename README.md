@@ -17,6 +17,7 @@ Fecha: 25/05/2023
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+![Vestíbulo museo](/museo.jpg) 
 
 ## Re-descubriendo la hibridacion: Caso 1
 
@@ -33,9 +34,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 * Manovich, Lev (2013). **El Software toma el mando.**
 
-* Adell, Ferran (2014). **Fundamentos y evolución de la multimedia** \[en línea, consulta: mayo 2023\]: <http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/>
+* Adell, Ferran (2014). **Fundamentos y evolución de la multimedia** \[en línea, consulta: mayo 2023\]:<br>
+<http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/>
 
-* Muñoz-Justicia, Juan (2014). **Conocimiento Abierto y Tecnología** \[en línea, consulta: mayo 2023\]: <http://juan.psicologiasocial.eu/conocimiento-y-tecnologia>
+* Muñoz-Justicia, Juan (2014). **Conocimiento Abierto y Tecnología** \[en línea, consulta: mayo 2023\]:<br>
+<http://juan.psicologiasocial.eu/conocimiento-y-tecnologia>
 
 * Repositorios y Fork en GitHub \[en línea, consulta: mayo 2023\]:<br>
 <https://docs.github.com/es/repositories/creating-and-managing-repositories/about-repositories><br>
@@ -44,6 +47,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * _StackEdit_ para la creación del texto en _MarkDown_:<br>
 <https://stackedit.io/app#><br>
 <https://markdown.es/>
+
+* Museos virtuales \[en línea, consulta: mayo 2023\]:<br> <https://artsandculture.google.com/partner?hl=es>
 
 * _Pixabay_ para las imágenes _(libres de derechos)_:<br>
 <https://pixabay.com/es/photos/mujer-lugar-de-trabajo-arte-digital-6516839/><br>
