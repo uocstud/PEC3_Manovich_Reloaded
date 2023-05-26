@@ -44,7 +44,7 @@ Ya es cada vez más habitual que cada museo permita la visita virtual en su prop
 
 ## Re-descubriendo la hibridacion: juegos en cuanto al arte
 
-En la misma linea con lo anterior, la hibridación y remediación de los antiguos medios ha transformado y llevado al siguiente nivel los juegos y la educación entorno al arte.
+En la misma linea con lo anterior, la hibridación y remediación de los antiguos medios ha transformado y llevado al siguiente nivel los juegos y la educación entorno al arte. También la pandemia ha acelerado el desarrollo de estas soluciones interactivas y de entretenimiento. Estando todos en cuarentena, en nuestras casas, la evolución de los clásicos juegos de mesa fue la versión virtual y así poder jugar con nuestros amigos y/o familiares.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
