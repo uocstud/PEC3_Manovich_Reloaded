@@ -11,7 +11,6 @@ Fecha: 25/05/2023
 ![Mujer delante del ordenador](/cabecera.jpg) 
 
 
-
 ## Planteamiento
 
 
@@ -23,7 +22,7 @@ Además de los últimos avances tecnológicos, que están permitiendo y facilita
 
 Me habría gustado usar fotos directas de Google Art&Culture, habrían sido mil veces más explicativas, adecuadas y representativas; como ha hecho algún compañero con sus respectivos temas/tecnologías. Pero mucho me temo que no cumpliría con los derecho de libre autor y similar; mucho menos en mi caso concreto, más que en el de mis compañeros a lo mejor. Aunque sean capturas de pantalla, al gigante Google _no se le escapa una_…
 
-
+###
 
 ![Vestíbulo museo](/museo.jpg) 
 
