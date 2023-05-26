@@ -15,11 +15,16 @@ Fecha: 25/05/2023
 ## Planteamiento
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Debajo de estas lineas se analizará y revisará cómo la tecnología ha ampliado y llevado al siguiente nivel la experiencia artística además del grado de detalle y libertad tanto físico como temporal. El arte está salva guardado y permanece en el mundo digital y virtual. 
+
+Me habría gustado usar fotos directas de Google Art&Culture, habrían sido mil veces más explicativas, adecuadas y representativas; como ha hecho algún compañero con sus respectivos temas/tecnologías. Pero mucho me temo que no cumpliría con los derecho de libre autor y similar; mucho menos en mi caso concreto, más que en el de mis compañeros a lo mejor. Aunque sean capturas de pantalla, al gigante Google _no se le escapa una_…
+
 
 ![Vestíbulo museo](/museo.jpg) 
 
 ## Re-descubriendo la hibridacion: museos en realidad virtual y/o aumentada
+
+El espacio-tiempo ya es irrelevante, gracias a la hibridación. Ya casi no hay diferencia en la interacción con el arte en el mundo real contra el virtual.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
