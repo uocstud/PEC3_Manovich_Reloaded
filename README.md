@@ -38,7 +38,7 @@ Es más, en las versiones virtuales las salas están vacías y te puedes pasear 
 
 Ya es cada vez más habitual que cada museo permita la visita virtual en su propia páginan web. Aún así, existen plataformas que unifican y facilitan las visitas a muchos museos desde un mismo sitio, como es el caso de Google Arts&Culture.
 
-
+###
 
 ![Escenas de la vida del dios Apollo](/apollo.jpg) 
 
