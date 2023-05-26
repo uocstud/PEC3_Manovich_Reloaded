@@ -24,6 +24,7 @@ Además de los últimos avances tecnológicos, que están permitiendo y facilita
 Me habría gustado usar fotos directas de Google Art&Culture, habrían sido mil veces más explicativas, adecuadas y representativas; como ha hecho algún compañero con sus respectivos temas/tecnologías. Pero mucho me temo que no cumpliría con los derecho de libre autor y similar; mucho menos en mi caso concreto, más que en el de mis compañeros a lo mejor. Aunque sean capturas de pantalla, al gigante Google _no se le escapa una_…
 
 
+
 ![Vestíbulo museo](/museo.jpg) 
 
 ## Re-descubriendo la hibridacion: museos en realidad virtual y/o aumentada
@@ -38,11 +39,14 @@ Es más, en las versiones virtuales las salas están vacías y te puedes pasear 
 
 Ya es cada vez más habitual que cada museo permita la visita virtual en su propia páginan web. Aún así, existen plataformas que unifican y facilitan las visitas a muchos museos desde un mismo sitio, como es el caso de Google Arts&Culture.
 
+
+
 ![Escenas de la vida del dios Apollo](/apollo.jpg) 
 
 ## Re-descubriendo la hibridacion: juegos en cuanto al arte
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 
 
 ### Referencias y Bibliografía
